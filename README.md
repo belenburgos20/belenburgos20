@@ -4,7 +4,8 @@
 
 ### Sobre mi👋
 - Estudiante de la Tecnicatura en Programación.
-  Podré brindar las siguientes capacidades:
+
+   Podré brindar las siguientes capacidades:
 - Interpretar y llevar a cabo la solución definida por el Analista.
 - Elaborar y/o corregir los programas mediante un lenguaje de desarrollo requerido por el mercado laboral.
 - Brindar al usuario la posibilidad de optimizar sus procesos acordes a las necesidades que impone la competencia del mercado.
