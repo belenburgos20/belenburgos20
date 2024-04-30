@@ -6,9 +6,9 @@
 **belenburgos20/belenburgos20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Capaz de:
-Interpretar y llevar a cabo la solución definida por el Analista
-Elaborar y/o corregir los programas mediante un lenguaje de desarrollo requerido por el mercado laboral.
-Brindar al usuario la posibilidad de optimizar sus procesos acordes a las necesidades que impone la competencia del mercado.
+- Interpretar y llevar a cabo la solución definida por el Analista.
+- Elaborar y/o corregir los programas mediante un lenguaje de desarrollo requerido por el mercado laboral.
+- Brindar al usuario la posibilidad de optimizar sus procesos acordes a las necesidades que impone la competencia del mercado.
 
 
 
