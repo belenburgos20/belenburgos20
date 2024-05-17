@@ -27,6 +27,9 @@
    ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
 
 
+**Dónde encontrarme:**
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:belenburgos.dev@gmail.com)
 
 
 
