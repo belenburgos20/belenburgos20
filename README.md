@@ -1,6 +1,6 @@
 
 
-(https://github.com/belenburgos20/belenburgos20/assets/167141409/c0414532-a2f6-42a1-9830-de08638dd630)
+
 
 ### Sobre mi👋
 - Estudiante de la Tecnicatura en Programación.
