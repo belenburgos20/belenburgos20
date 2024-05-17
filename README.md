@@ -11,9 +11,10 @@
 - Brindar al usuario la posibilidad de optimizar sus procesos acordes a las necesidades que impone la competencia del mercado.
 
 
--->
+--> https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=%230EAA20&vCenter=true&lines=Thanks+for+visiting!+You're+welcome!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=%230EAA20&vCenter=true&lines=Thanks+for+visiting!)](https://git.io/typing-svg)
+
 
 ------
