@@ -11,6 +11,7 @@
 - Brindar al usuario la posibilidad de optimizar sus procesos acordes a las necesidades que impone la competencia del mercado.
 
 - **Idiomas**:
+  
 ![C++](https://img.shields.io/badge/C++%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=%230EAA20&vCenter=true&lines=Thanks+for+visiting!)](https://git.io/typing-svg)
