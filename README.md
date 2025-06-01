@@ -4,7 +4,7 @@
  <img src="https://readme-typing-svg.herokuapp.com/?lines=Bienvenido+a+mi+perfil+de+GitHub!&center=true&width=360&height=30">
 </p>
 
-### # <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Sobre mi👋
+### # Sobre mi👋
 - Estudiante de la Tecnicatura en Programación.
 
    Podré brindar las siguientes capacidades:
